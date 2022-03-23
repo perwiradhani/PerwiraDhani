@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PerwiraDhani
 - 👀 I’m interested in Game Development and programming
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Java, Python, PHP, and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me perwira.dzakwan11@gmail.com
 
